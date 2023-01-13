@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Express.js and other web technologies.**
 
-- 📫 How to reach me **diego.blake11@gmail.com**
+- 📫 How to reach me **diegohp.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
